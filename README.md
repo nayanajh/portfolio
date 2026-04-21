@@ -21,3 +21,6 @@ As an aspiring fullstack developer, I am constantly exploring new technologies, 
 My long-term goal is to grow into a highly skilled and versatile fullstack developer who can contribute to impactful and innovative projects. I am eager to work in challenging environments where I can apply my knowledge, collaborate with experienced professionals, and continue learning. I aim to build applications that not only solve problems but also create value for users and organizations. With dedication, curiosity, and a strong willingness to learn, I am committed to continuously evolving as a developer and making meaningful contributions in the world of technology.
 
 ##OUTPUT:
+<img width="1887" height="933" alt="Image" src="https://github.com/user-attachments/assets/aa8f5e92-28b4-4c67-b0d5-c01c626ca751" />
+
+<img width="1877" height="903" alt="Image" src="https://github.com/user-attachments/assets/dc826bfe-5726-4696-9279-be8f624571fd" />
